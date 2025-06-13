@@ -1,0 +1,5 @@
+opencv-python
+numpy
+pyautogui
+pillow
+opencv-python-headless>=4.5.0 
